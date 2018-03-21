@@ -10,3 +10,9 @@ fifo_using_procfs_sysfs.c
 
 Testing of the fifo_using_procfs_sysfs.c code
 ![ FIFO example ](https://github.com/CodeBag-Debashish/cs695/blob/master/fifo_2.gif)
+
+-------------------------------
+
+Kernel debug:
+
+https://www.youtube.com/watch?v=wCf0ouJSuZ4
